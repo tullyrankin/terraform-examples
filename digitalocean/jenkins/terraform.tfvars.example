@@ -1,0 +1,4 @@
+do_ssh_keys = "12345"
+do_token = "DIGITALOCEAN_API_KEY"
+private_key = "/path/to/ssh/private/key"
+
